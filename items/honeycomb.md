@@ -5,3 +5,7 @@
 - **Buy Price**: 50$
 - **Sell Price**: 30$
 - **Default Gift Reaction**: Dislike
+
+---
+
+Honeycomb can be found randomly on the mountains during sunny spring days, always on areas with flowers.
