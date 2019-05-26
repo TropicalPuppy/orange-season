@@ -1,13 +1,14 @@
-# Hot Milk
+# Latte
 
 ## Basic Information
 
-- **Buy Price**: 200$
-- **Sell Price**: 20$
+- **Buy Price**: 310$
+- **Sell Price**: 80$
 - **Default Gift Reaction**: Normal
 - **Heals**:
-  - 10 points of Stamina
+  - 30 points of Stamina
 - **Recipe**:
   - **Utensil**: Pot
   - **Ingredients**:
+    - Coffee Beans
     - Milk

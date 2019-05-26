@@ -1,0 +1,107 @@
+# Jam
+
+## Basic Information
+
+- **Buy Price**: 512$
+- **Sell Price**: 512$
+- **Default Gift Reaction**: Normal
+- **Heals**:
+  - 4 points of Stamina
+- **Recipes**:
+  - Recipe 1:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Strawberry
+  - Recipe 2:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Raspberry
+  - Recipe 3:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Blackberry
+  - Recipe 4:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Guava
+  - Recipe 5:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Cherry
+  - Recipe 6:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Blackberry
+  - Recipe 7:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Jabuticaba
+  - Recipe 8:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Plum
+  - Recipe 9:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Grape
+  - Recipe 10:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Blueberry
+  - Recipe 11:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Strawberry
+      - Raspberry
+      - Blackberry
+  - Recipe 12:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Pear
+  - Recipe 13:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Apricot
+  - Recipe 14:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Cupuacu
+  - Recipe 15:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Passion Fruit
+  - Recipe 16:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Orange
+  - Recipe 17:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Persimmon
+  - Recipe 18:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Tangerine
+  - Recipe 19:
+    - **Utensil**: Pot
+    - **Ingredients**:
+      - Sugar
+      - Kiwi

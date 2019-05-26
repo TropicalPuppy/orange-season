@@ -1,13 +1,14 @@
-# Hot Milk
+# Baked Sweet Potato
 
 ## Basic Information
 
-- **Buy Price**: 200$
-- **Sell Price**: 20$
+- **Buy Price**: 467$
+- **Sell Price**: 259$
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 10 points of Stamina
 - **Recipe**:
-  - **Utensil**: Pot
+  - **Utensil**: Oven
   - **Ingredients**:
-    - Milk
+    - Sweet Potato
+    - Butter

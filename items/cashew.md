@@ -1,0 +1,9 @@
+# Cashew
+
+## Basic Information
+
+- **Buy Price**: 144$
+- **Sell Price**: 29$
+- **Default Gift Reaction**: Normal
+- **Heals**:
+  - 5 points of Stamina
