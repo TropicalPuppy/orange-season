@@ -21,7 +21,7 @@
 - [Pizza Slice](items/pizza-slice.md)
 - [Bread Slice](items/bread-slice.md)
 - [White Chocolate](items/white-chocolate.md)
-- [item-garlic](items/garlic.md)
+- [Garlic](items/garlic.md)
 - [Coffee Beans](items/coffee-beans.md)
 - [Vinegar](items/vinegar.md)
 - [Condensed Milk](items/condensed-milk.md)
