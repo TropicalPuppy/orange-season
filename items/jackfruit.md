@@ -7,3 +7,7 @@
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 15 points of Stamina
+  
+---
+
+Can be found randomly during summer, starting on year 2.
