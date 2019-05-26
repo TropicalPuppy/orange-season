@@ -1,4 +1,4 @@
-# item-garlic
+# Garlic
 
 ## Basic Information
 
