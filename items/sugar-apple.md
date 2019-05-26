@@ -5,3 +5,6 @@
 - **Buy Price**: 207$
 - **Sell Price**: 89$
 - **Default Gift Reaction**: Normal
+
+---
+Can be found randomly during fall, starting on year 3.
