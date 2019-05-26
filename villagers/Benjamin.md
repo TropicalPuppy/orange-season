@@ -5,7 +5,9 @@ Benjamin is a 27 year old farmer who lives in Orange Town. He's the one who give
 
 ## Family
 
-Benjamin has two sisters in Orange Town: Julia and Brittany. Their parents live somewhere else.
+- [Brittany](Brittany.md) - Older Sister
+- [Julia](Julia.md) - Older Sister
+- Benjamin's parents do not live in Orange Town.
 
 ## Likes and Dislikes:
 
