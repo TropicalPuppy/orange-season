@@ -4,3 +4,8 @@
 
 - **Buy Price**: 20$
 - **Sell Price**: 10$
+
+---
+Can be found randomly during winter.
+
+Can also be found randomly on shiny spots on the ground.
