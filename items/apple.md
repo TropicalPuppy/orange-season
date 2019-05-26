@@ -9,3 +9,7 @@
   - 5 points of Stamina
 - **Seasons**:
   - Fall
+
+---
+
+Can be picked from trees or found randomly during fall.
