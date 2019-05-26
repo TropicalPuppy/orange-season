@@ -13,39 +13,39 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items:
 
-- Hot Milk
-- Cake
-- Sugarcane
-- Jam
-- Guava
-- Bouquet
-- Corn
-- Golden Egg
-- Large Egg
+- [Hot Milk](../items/hot-milk.md)
+- [Cake](../items/cake.md)
+- [Sugarcane](../items/sugarcane.md)
+- [Jam](../items/jam.md)
+- [Guava](../items/guava.md)
+- [Bouquet](../items/bouquet.md)
+- [Corn](../items/corn.md)
+- [Golden Egg](../items/golden-egg.md)
+- [Large Egg](../items/large-egg.md)
 
 ### Liked Items:
 
-- Yarn
-- Cheese
-- Butter
-- Strawberry
-- Medium Egg
-- Bread
-- Duck Egg
-- Quail Egg
-- Egg
-- Milk
-- Goat Milk
-- Sugar
-- Yak Milk
-- Mountain Goat Milk
-- Wool
-- Carrot
-- Coffee
-- Cocoa
-- Cocoa Beans
-- Chocolate
-- Hamburguer
+- [Yarn](../items/yarn.md)
+- [Cheese](../items/cheese.md)
+- [Butter](../items/butter.md)
+- [Strawberry](../items/strawberry.md)
+- [Medium Egg](../items/medium-egg.md)
+- [Bread](../items/bread.md)
+- [Duck Egg](../items/duck-egg.md)
+- [Quail Egg](../items/quail-egg.md)
+- [Egg](../items/egg.md)
+- [Milk](../items/milk.md)
+- [Goat Milk](../items/goat-milk.md)
+- [Sugar](../items/sugar.md)
+- [Yak Milk](../items/yak-milk.md)
+- [Mountain Goat Milk](../items/mountain-goat-milk.md)
+- [Wool](../items/wool.md)
+- [Carrot](../items/carrot.md)
+- [Coffee](../items/coffee.md)
+- [Cocoa](../items/cocoa.md)
+- [Cocoa Beans](../items/cocoa-beans.md)
+- [Chocolate](../items/chocolate.md)
+- [Hamburguer](../items/hamburguer.md)
 
 ### Disliked Items
 
