@@ -5,7 +5,7 @@
 - **Buy Price**: 17$
 - **Sell Price**: 8$
 - **Crop Name**: Greenpepper
-- **Crop Sell Price**: 40$
+- **Crop Sell Price**: 32$
 - **Time to Grow**: 8 days.
 - **Time to Grow again**: 2 days.
 - **Seasons**:

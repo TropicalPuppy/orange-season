@@ -7,6 +7,6 @@
 - **Default Gift Reaction**: Hate
 - **Heals**:
   - -30 points of Stamina
-  
+
 ---
 Can be found randomly during fall.

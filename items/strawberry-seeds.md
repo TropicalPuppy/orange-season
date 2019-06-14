@@ -5,7 +5,7 @@
 - **Buy Price**: 17$
 - **Sell Price**: 8$
 - **Crop Name**: Strawberry
-- **Crop Sell Price**: 30$
+- **Crop Sell Price**: 57$
 - **Time to Grow**: 9 days.
 - **Time to Grow again**: 2 days.
 - **Seasons**:

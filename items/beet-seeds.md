@@ -5,7 +5,7 @@
 - **Buy Price**: 34$
 - **Sell Price**: 17$
 - **Crop Name**: Beet
-- **Crop Sell Price**: 120$
+- **Crop Sell Price**: 162$
 - **Time to Grow**: 8 days.
 - **Seasons**:
   - Fall

@@ -1,9 +1,7 @@
 # Crops
 
-- [Milk](items/milk.md)
-- [Goat Milk](items/goat-milk.md)
-- [Yak Milk](items/yak-milk.md)
 - [Mountain Goat Milk](items/mountain-goat-milk.md)
+- [Milk](items/milk.md)
 - [Corn](items/corn.md)
 - [Tomato](items/tomato.md)
 - [Carrot](items/carrot.md)
@@ -41,7 +39,6 @@
 - [Cheese](items/cheese.md)
 - [Goat Cheese](items/goat-cheese.md)
 - [Mountain Goat Cheese](items/mountain-goat-cheese.md)
-- [Cherry](items/cherry.md)
 - [Cocoa](items/cocoa.md)
 - [Chestnut](items/chestnut.md)
 - [Jasmine](items/jasmine.md)
@@ -53,6 +50,8 @@
 - [Daisy](items/daisy.md)
 - [Yellow Daisy](items/yellow-daisy.md)
 - [Pink Daisy](items/pink-daisy.md)
+- [Goat Milk](items/goat-milk.md)
+- [Yak Milk](items/yak-milk.md)
 - [Blue Yarn](items/blue-yarn.md)
 - [Green Yarn](items/green-yarn.md)
 - [Red Yarn](items/red-yarn.md)

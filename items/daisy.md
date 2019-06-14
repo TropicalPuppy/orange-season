@@ -8,3 +8,4 @@
 - **Seasons**:
   - Spring
   - Summer
+  - Fall

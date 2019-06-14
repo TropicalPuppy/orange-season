@@ -9,7 +9,7 @@ A fertilized chicken egg. It won't hatch anymore.
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 10 points of Stamina
-  
+
 ---
 Randomly obtained from chickens when you have a rooster on the same coop.
 It will hatch into a chick in a few days if:

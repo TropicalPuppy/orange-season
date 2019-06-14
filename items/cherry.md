@@ -9,6 +9,6 @@
   - 3 points of Stamina
 - **Seasons**:
   - Spring
-  
+
 ---
 Can be found randomly during spring.

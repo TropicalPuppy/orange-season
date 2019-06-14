@@ -8,6 +8,6 @@
 - **Heals**:
   - 10 points of Stamina
   - 1 points of Fatigue
-  
+
 ---
 Can be bought on the General Store.

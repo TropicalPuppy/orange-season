@@ -6,6 +6,7 @@
 - [Pair of Boots](items/pair-of-boots.md)
 - [Dirty Pair of Boots](items/dirty-pair-of-boots.md)
 - [item-blue-boots](items/blue-boots.md)
+- [Cherry](items/cherry.md)
 - [Key](items/key.md)
 - [item-notebook](items/notebook.md)
 - [Cocoa Beans](items/cocoa-beans.md)

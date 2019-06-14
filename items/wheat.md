@@ -2,8 +2,8 @@
 
 ## Basic Information
 
-- **Buy Price**: 65$
-- **Sell Price**: 50$
+- **Buy Price**: 185$
+- **Sell Price**: 99$
 - **Default Gift Reaction**: Dislike
 - **Seasons**:
   - Spring

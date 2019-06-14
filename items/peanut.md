@@ -3,7 +3,7 @@
 ## Basic Information
 
 - **Buy Price**: 30$
-- **Sell Price**: 12$
+- **Sell Price**: 13$
 - **Default Gift Reaction**: Dislike
 - **Heals**:
   - 2 points of Stamina

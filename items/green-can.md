@@ -4,7 +4,6 @@
 
 - **Default Gift Reaction**: Dislike
 
-
 ---
 Can be fished;
 

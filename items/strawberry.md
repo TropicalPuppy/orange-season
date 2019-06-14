@@ -2,8 +2,8 @@
 
 ## Basic Information
 
-- **Buy Price**: 45$
-- **Sell Price**: 30$
+- **Buy Price**: 99$
+- **Sell Price**: 57$
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 7 points of Stamina
