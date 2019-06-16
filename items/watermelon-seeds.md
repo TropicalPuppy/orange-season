@@ -6,7 +6,7 @@
 - **Sell Price**: 92$
 - **Crop Name**: Watermelon
 - **Crop Sell Price**: 199$
-- **Time to Grow**: 25 days.
-- **Time to Grow again**: 13 days.
+- **Time to Grow**: 15 days.
+- **Time to Grow again**: 4 days.
 - **Seasons**:
   - Summer
