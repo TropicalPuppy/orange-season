@@ -4,7 +4,7 @@
 
 - **Buy Price**: 185$
 - **Sell Price**: 99$
-- **Default Gift Reaction**: Dislike
+- **Default Gift Reaction**: Normal
 - **Seasons**:
   - Spring
   - Summer

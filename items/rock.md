@@ -4,4 +4,4 @@
 
 - **Buy Price**: 5$
 - **Sell Price**: 1$
-- **Default Gift Reaction**: Dislike
+- **Default Gift Reaction**: Hate

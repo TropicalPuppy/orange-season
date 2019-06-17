@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-- **Default Gift Reaction**: Dislike
+- **Default Gift Reaction**: Hate
 
 ---
 

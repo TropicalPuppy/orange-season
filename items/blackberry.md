@@ -4,7 +4,7 @@
 
 - **Buy Price**: 42$
 - **Sell Price**: 8$
-- **Default Gift Reaction**: Like
+- **Default Gift Reaction**: Normal
 - **Heals**:
   - 3 points of Stamina
 - **Seasons**:

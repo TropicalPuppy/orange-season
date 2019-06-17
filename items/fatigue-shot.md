@@ -4,6 +4,6 @@
 
 - **Buy Price**: 1,000$
 - **Sell Price**: 39$
-- **Default Gift Reaction**: Dislike
+- **Default Gift Reaction**: Hate
 - **Heals**:
   - 100 points of Fatigue

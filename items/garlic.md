@@ -4,4 +4,4 @@
 
 - **Buy Price**: 120$
 - **Sell Price**: 71$
-- **Default Gift Reaction**: Like
+- **Default Gift Reaction**: Normal
