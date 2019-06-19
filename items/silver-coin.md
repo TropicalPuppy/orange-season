@@ -4,6 +4,7 @@
 
 - **Buy Price**: 150$
 - **Sell Price**: 50$
+- **Sold by Wandering Salesman**: YES
 
 ---
 Can be found randomly during winter, starting on year 3.

@@ -5,6 +5,7 @@ Supposedly, OVERGENEROUS HEARTWARMING NECTAROUS ORANGE. It's actually a spoiled 
 ## Basic Information
 
 - **Buy Price**: 2,000$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Hate
 
 ---

@@ -9,5 +9,6 @@ If you sow those seeds in fall, you'll get roses after 9 days.
 - **Crop Name**: Rose
 - **Crop Sell Price**: 120$
 - **Time to Grow**: 9 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Fall

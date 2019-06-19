@@ -6,6 +6,7 @@ A fresh duck egg.
 
 - **Buy Price**: 110$
 - **Sell Price**: 65$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 15 points of Stamina

@@ -9,5 +9,6 @@ If you sow those seeds in spring, you'll get pink daisies after 7 days.
 - **Crop Name**: Pink Daisy
 - **Crop Sell Price**: 30$
 - **Time to Grow**: 7 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

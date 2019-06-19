@@ -6,6 +6,7 @@ A fresh chicken egg.
 
 - **Buy Price**: 100$
 - **Sell Price**: 60$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 10 points of Stamina

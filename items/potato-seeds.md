@@ -9,5 +9,6 @@ Potatoes grow after 8 days in spring.
 - **Crop Name**: Potato
 - **Crop Sell Price**: 92$
 - **Time to Grow**: 7 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

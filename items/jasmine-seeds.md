@@ -9,5 +9,6 @@ If you sow those seeds in spring, you'll get jasmines after 4 days.
 - **Crop Name**: Jasmine
 - **Crop Sell Price**: 17$
 - **Time to Grow**: 4 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

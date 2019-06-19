@@ -6,4 +6,5 @@ Brown and sticky.
 
 - **Buy Price**: 20$
 - **Sell Price**: 1$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Dislike

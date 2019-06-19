@@ -9,5 +9,6 @@ Mushroom grow only in caves. even if you don't water it. It takes between 5 and 
 - **Crop Name**: Mushroom
 - **Crop Sell Price**: 58$
 - **Time to Grow**: 10 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Caves

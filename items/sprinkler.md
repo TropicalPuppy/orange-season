@@ -6,3 +6,4 @@ Automatically waters up to 8 crops around itself.
 
 - **Buy Price**: 500$
 - **Sell Price**: 320$
+- **Sold by Wandering Salesman**: NO

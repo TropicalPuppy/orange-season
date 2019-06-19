@@ -9,5 +9,6 @@ A spring crop. Takes 5 days to grow.
 - **Crop Name**: Turnip
 - **Crop Sell Price**: 62$
 - **Time to Grow**: 5 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

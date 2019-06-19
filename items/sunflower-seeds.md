@@ -9,5 +9,6 @@ If you sow those seeds in summer, you'll get sunflowers after 12 days.
 - **Crop Name**: Sunflower
 - **Crop Sell Price**: 61$
 - **Time to Grow**: 12 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Summer

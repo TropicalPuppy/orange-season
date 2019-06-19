@@ -4,6 +4,7 @@
 
 - **Buy Price**: 201$
 - **Sell Price**: 111$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Hate
 - **Heals**:
   - 15 points of Stamina

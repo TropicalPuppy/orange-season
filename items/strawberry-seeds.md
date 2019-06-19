@@ -8,5 +8,6 @@
 - **Crop Sell Price**: 57$
 - **Time to Grow**: 9 days.
 - **Time to Grow again**: 2 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

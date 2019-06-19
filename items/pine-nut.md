@@ -4,6 +4,7 @@
 
 - **Buy Price**: 46$
 - **Sell Price**: 19$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 
 ---

@@ -9,6 +9,7 @@ If you sow those seeds between spring and fall, you'll get daisies after 6 days.
 - **Crop Name**: Daisy
 - **Crop Sell Price**: 10$
 - **Time to Grow**: 6 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring
   - Summer

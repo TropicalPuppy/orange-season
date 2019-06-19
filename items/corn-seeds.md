@@ -10,5 +10,6 @@ A Summer seed that grows in 15 days and regrows after 3 days.
 - **Crop Sell Price**: 40$
 - **Time to Grow**: 15 days.
 - **Time to Grow again**: 3 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Summer

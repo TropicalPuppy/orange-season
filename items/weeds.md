@@ -4,6 +4,7 @@
 
 - **Buy Price**: 3$
 - **Sell Price**: 1$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Hate
 
 ---

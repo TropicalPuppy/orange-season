@@ -4,6 +4,7 @@
 
 - **Buy Price**: 150$
 - **Sell Price**: 15$
+- **Sold by Wandering Salesman**: YES
 - **Heals**:
   - 3 points of Stamina
 - **Recipes**:

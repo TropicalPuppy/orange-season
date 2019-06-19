@@ -4,6 +4,7 @@
 
 - **Buy Price**: 115$
 - **Sell Price**: 45$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Recipe**:
   - **Utensil**: Mixer

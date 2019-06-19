@@ -5,4 +5,5 @@ Supposedly, BLESSED LOVELY ORANGE WISHES. It looks like this fruit will increase
 ## Basic Information
 
 - **Buy Price**: 2,000$
+- **Sold by Wandering Salesman**: YES
 - Increases max stamina by 10 points.

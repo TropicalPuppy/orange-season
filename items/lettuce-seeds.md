@@ -9,5 +9,6 @@ Lettuce grows in 6 days in the winter.
 - **Crop Name**: Lettuce
 - **Crop Sell Price**: 61$
 - **Time to Grow**: 6 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Winter

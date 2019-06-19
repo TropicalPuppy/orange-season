@@ -9,5 +9,6 @@ If you sow those seeds in summer, you'll get yellow daisies after 6 days.
 - **Crop Name**: Yellow Daisy
 - **Crop Sell Price**: 22$
 - **Time to Grow**: 6 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Summer

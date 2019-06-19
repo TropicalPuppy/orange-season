@@ -4,6 +4,7 @@
 
 - **Buy Price**: 450$
 - **Sell Price**: 40$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Love
 - **Heals**:
   - 45 points of Stamina

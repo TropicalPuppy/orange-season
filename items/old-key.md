@@ -4,6 +4,7 @@
 
 - **Buy Price**: 1,000$
 - **Sell Price**: 10$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 
 ---

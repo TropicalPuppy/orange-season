@@ -9,5 +9,6 @@ Carrots grow after 8 days in the fall.
 - **Crop Name**: Carrot
 - **Crop Sell Price**: 161$
 - **Time to Grow**: 8 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Fall

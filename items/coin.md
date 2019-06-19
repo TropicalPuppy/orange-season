@@ -4,6 +4,7 @@
 
 - **Buy Price**: 20$
 - **Sell Price**: 10$
+- **Sold by Wandering Salesman**: YES
 
 ---
 Can be found randomly during winter.

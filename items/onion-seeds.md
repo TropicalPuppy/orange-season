@@ -9,5 +9,6 @@ Onion seeds grow after 8 days in the summer.
 - **Crop Name**: Onion
 - **Crop Sell Price**: 148$
 - **Time to Grow**: 8 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Summer

@@ -4,6 +4,7 @@ A very old orange. It is no longer tasty.
 
 ## Basic Information
 
+- **Sold by Wandering Salesman**: NO
 - **Default Gift Reaction**: Hate
 
 ---

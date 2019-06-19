@@ -7,5 +7,6 @@
 - **Crop Name**: Beet
 - **Crop Sell Price**: 162$
 - **Time to Grow**: 8 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Fall

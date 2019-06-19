@@ -9,5 +9,6 @@ Cabbages grow after 15 days in spring, but they can be sold for a lot of money.
 - **Crop Name**: Cabbage
 - **Crop Sell Price**: 250$
 - **Time to Grow**: 15 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring

@@ -6,6 +6,7 @@ A fertilized chicken egg. It won't hatch anymore.
 
 - **Buy Price**: 750$
 - **Sell Price**: 200$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 10 points of Stamina

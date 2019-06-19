@@ -4,6 +4,7 @@
 
 - **Buy Price**: 181$
 - **Sell Price**: 112$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Recipes**:
   - Recipe 1:

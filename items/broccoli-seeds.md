@@ -9,5 +9,6 @@ A quick fall seed. Grows completely in just 5 days.
 - **Crop Name**: Broccoli
 - **Crop Sell Price**: 80$
 - **Time to Grow**: 5 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Fall

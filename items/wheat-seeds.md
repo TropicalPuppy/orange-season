@@ -9,6 +9,7 @@ Wheat grow all year round, in just 9 days.
 - **Crop Name**: Wheat
 - **Crop Sell Price**: 99$
 - **Time to Grow**: 9 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Spring
   - Summer

@@ -9,5 +9,6 @@ If you sow those seeds in winter, you'll get whites roses after 9 days.
 - **Crop Name**: White Rose
 - **Crop Sell Price**: 135$
 - **Time to Grow**: 9 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Winter

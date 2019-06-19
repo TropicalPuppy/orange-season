@@ -6,6 +6,7 @@ Don't try to hatch it.
 
 - **Buy Price**: 120$
 - **Sell Price**: 47$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 3 points of Stamina

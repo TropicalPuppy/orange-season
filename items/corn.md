@@ -6,6 +6,7 @@ Traditional summer crop. Goes well with butter.
 
 - **Buy Price**: 150$
 - **Sell Price**: 40$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 7 points of Stamina

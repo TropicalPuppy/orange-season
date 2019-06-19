@@ -9,5 +9,6 @@ Cauliflower grows after 9 days in the winter.
 - **Crop Name**: Cauliflower
 - **Crop Sell Price**: 99$
 - **Time to Grow**: 9 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Winter

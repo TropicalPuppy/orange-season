@@ -10,5 +10,6 @@ Eggplants grows after 10 days in the fall. It regrows after 3 days.
 - **Crop Sell Price**: 47$
 - **Time to Grow**: 10 days.
 - **Time to Grow again**: 3 days.
+- **Sold by Wandering Salesman**: NO
 - **Seasons**:
   - Fall

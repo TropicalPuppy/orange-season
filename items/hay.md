@@ -6,4 +6,5 @@ Feeds a big animal for an entire day.
 
 - **Buy Price**: 20$
 - **Sell Price**: 5$
+- **Sold by Wandering Salesman**: NO
 - **Default Gift Reaction**: Dislike
