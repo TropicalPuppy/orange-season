@@ -2,8 +2,8 @@
 
 ## Basic Information
 
-- **Buy Price**: 49$
-- **Sell Price**: 40$
+- **Buy Price**: 69$
+- **Sell Price**: 30$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:

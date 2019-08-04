@@ -5,7 +5,7 @@
 - **Buy Price**: 23$
 - **Sell Price**: 11$
 - **Crop Name**: Spinach
-- **Crop Sell Price**: 80$
+- **Crop Sell Price**: 87$
 - **Time to Grow**: 6 days.
 - **Sold by Wandering Salesman**: NO
 - **Seasons**:

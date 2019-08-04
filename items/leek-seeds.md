@@ -7,7 +7,7 @@ Leek grows in 10 days in the winter.
 - **Buy Price**: 19$
 - **Sell Price**: 9$
 - **Crop Name**: Leek
-- **Crop Sell Price**: 111$
+- **Crop Sell Price**: 122$
 - **Time to Grow**: 10 days.
 - **Sold by Wandering Salesman**: NO
 - **Seasons**:

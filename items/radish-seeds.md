@@ -7,7 +7,7 @@ Radish grows in 7 days in the fall.
 - **Buy Price**: 15$
 - **Sell Price**: 7$
 - **Crop Name**: Radish
-- **Crop Sell Price**: 109$
+- **Crop Sell Price**: 120$
 - **Time to Grow**: 7 days.
 - **Sold by Wandering Salesman**: NO
 - **Seasons**:

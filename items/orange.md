@@ -5,7 +5,7 @@ A very common but delicious fruit. Restores some stamina when eaten.
 ## Basic Information
 
 - **Buy Price**: 20$
-- **Sell Price**: 6$
+- **Sell Price**: 8$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:

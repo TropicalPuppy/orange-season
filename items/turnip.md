@@ -5,7 +5,7 @@ The first crop of any farmer. Grows quickly, but it isn't worth much.
 ## Basic Information
 
 - **Buy Price**: 90$
-- **Sell Price**: 62$
+- **Sell Price**: 68$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:

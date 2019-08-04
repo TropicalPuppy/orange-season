@@ -5,7 +5,7 @@ A basic summer... fruit? vegetable? You can never be sure.
 ## Basic Information
 
 - **Buy Price**: 90$
-- **Sell Price**: 43$
+- **Sell Price**: 47$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
