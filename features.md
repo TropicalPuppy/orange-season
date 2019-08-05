@@ -9,6 +9,7 @@ On the farm, the player can:
  - Break rocks;
  - Cut tree logs and stumps;
  - Collect fruits from trees;
+ - Ship items (shipped items are collected every day at 8AM, you get the money for them at that time, even if you're not in the farm).
 
 Inside their house, players can:
  - Watch TV (weather forecast and festival announcements)
@@ -98,6 +99,9 @@ Bonnie's Clinic:
 Mia's Animal Clinic (Not Yet Implemented):
   - Breed Animals;
   - Buy Animal Medicine;
+
+City Hall:
+  - Buy additional farm land.
 
 Tools:
  - Sickle:
