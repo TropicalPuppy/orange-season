@@ -140,12 +140,18 @@ Animals:
    * A breeding system similar to the chicken will be implemented in the future.
  - Cows:
    * Gives milk once a day;
+   * Player can ride them to move around, but there's no speed benefit.
  - Goats:
    * Gives goat milk once a day;
+   * Player can ride them to move around, but there's no speed benefit.
  - Mountain Goats:
    * Gives mountain goat milk once a day;
+   * Player can ride them to move around, but there's no speed benefit.
  - Yaks:
    * Gives yak milk once a day;
+   * Player can ride them to move around, but there's no speed benefit.
+ - Horses:
+   * Player can ride them to increase movement speed.
  - Wild Dogs, Cats, Bunnies, Monkeys and Squirrels:
    * Can be tamed and brought to the animal sanctuary;
  - Pet Dog:
