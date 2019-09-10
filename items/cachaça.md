@@ -1,4 +1,4 @@
-# Cachaça
+# Sugarcane Rum
 
 ## Basic Information
 

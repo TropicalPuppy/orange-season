@@ -17,7 +17,7 @@ No Info.
 
 ### Liked Items
 
-No Info.
+- [Sugarcane](../items/sugarcane.md)
 
 ### Disliked Items
 

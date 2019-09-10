@@ -3,7 +3,7 @@
 ## Basic Information
 
 - **Buy Price**: 300$
-- **Sell Price**: 127$
+- **Sell Price**: 57$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Hate
 - **Heals**:

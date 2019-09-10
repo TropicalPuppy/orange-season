@@ -87,6 +87,7 @@
 - [Frying Pan](items/kitchen-pan.md)
 - [Oven](items/kitchen-oven.md)
 - [Green Fishing Rod](items/green-fishing-rod.md)
+- [Fishing Rod](items/fishing-rod.md)
 - [Blue Fishing Rod](items/blue-fishing-rod.md)
 - [Bee Keeper Clothes](items/beekeeper-costume.md)
 - [Wolf Costume](items/wolf-costume.md)

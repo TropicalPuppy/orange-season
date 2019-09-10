@@ -10,4 +10,20 @@ She's the kind of person who is straight to the point and always says what's in 
 
 ## Likes and Dislikes
 
-Stella doesn't accept gifts.
+Any items not on those lists will be liked or disliked according to the item's default.
+
+### Loved Items
+
+No Info.
+
+### Liked Items
+
+No Info.
+
+### Disliked Items
+
+No Info.
+
+### Hated Items
+
+No Info.

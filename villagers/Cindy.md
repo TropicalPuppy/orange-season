@@ -13,7 +13,8 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Strawberry Ice Cream](../items/strawberry-icecream.md)
+- [Strawberry Juice](../items/strawberry-juice.md)
 
 ### Liked Items
 

@@ -13,8 +13,9 @@ Benjamin is a 27 year old farmer who lives in Orange Town. He's the one who give
 
 Any items not on those lists will be liked or disliked according to the item's default.
 
-### Loved Items:
+### Loved Items
 
+- [Golden Egg](../items/golden-egg.md)
 - [Hot Milk](../items/hot-milk.md)
 - [Cake](../items/cake.md)
 - [Sugarcane](../items/sugarcane.md)
@@ -22,16 +23,13 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Guava](../items/guava.md)
 - [Bouquet](../items/bouquet.md)
 - [Corn](../items/corn.md)
-- [Golden Egg](../items/golden-egg.md)
-- [Large Egg](../items/large-egg.md)
 
-### Liked Items:
+### Liked Items
 
 - [Yarn](../items/yarn.md)
 - [Cheese](../items/cheese.md)
 - [Butter](../items/butter.md)
 - [Strawberry](../items/strawberry.md)
-- [Medium Egg](../items/medium-egg.md)
 - [Bread](../items/bread.md)
 - [Duck Egg](../items/duck-egg.md)
 - [Quail Egg](../items/quail-egg.md)
@@ -47,7 +45,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Cocoa](../items/cocoa.md)
 - [Cocoa Beans](../items/cocoa-beans.md)
 - [Chocolate](../items/chocolate.md)
-- [Hamburguer](../items/hamburguer.md)
+- [Hamburger](../items/hamburguer.md)
 
 ### Disliked Items
 
@@ -56,4 +54,3 @@ No Info.
 ### Hated Items
 
 No Info.
-

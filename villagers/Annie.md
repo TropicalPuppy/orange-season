@@ -8,12 +8,13 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-- [item-book](../items/book.md)
 - [Cake](../items/cake.md)
 - [Diamond](../items/diamond.md)
 - [White Rose](../items/white-rose.md)
 - [Hamburger](../items/hamburguer.md)
 - [Hot Milk](../items/hot-milk.md)
+- [Grape Juice](../items/grape-juice.md)
+- [Strawberry Juice](../items/strawberry-juice.md)
 
 ### Liked Items
 
@@ -58,7 +59,6 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Branch](../items/branch.md)
 - [Wooden Plank](../items/wooden-planks.md)
 - [Wooden Stick](../items/wooden-stick.md)
-- [item-newspaper](../items/newspaper.md)
 - [Mushroom](../items/mushroom.md)
 - [Iron Ore](../items/iron-ore.md)
 - [Copper Ore](../items/copper-ore.md)

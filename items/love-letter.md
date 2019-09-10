@@ -4,4 +4,4 @@
 
 - **Buy Price**: 150$
 - **Sell Price**: 100$
-- **Sold by Wandering Salesman**: YES
+- **Sold by Wandering Salesman**: NO

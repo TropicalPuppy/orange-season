@@ -5,7 +5,6 @@ Supposedly, SUPER ULTRA GREATEST ORANGE EXPERIENCE. But it's just a regular oran
 ## Basic Information
 
 - **Buy Price**: 2,000$
-- **Sell Price**: 12$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
