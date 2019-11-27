@@ -37,7 +37,7 @@ No Info
     Friendship Level: 3 Hearts or More
     Conditions:
      - Not riding any animal
-     - Seen Date 1
+     - Seen Friendship Event
      - Being followed by Annie
 
 ## Likes and Dislikes
