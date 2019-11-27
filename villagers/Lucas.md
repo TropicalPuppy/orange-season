@@ -6,6 +6,25 @@ Lucas is a 21 year old man who lives in Orange Town. He rarely leaves his house 
 
 - Lucas never mentioned his family.
 
+## Heart Events
+
+### Friendship Event
+    Location: Mountain
+    Time: 10:00 - 13:59
+    Friendship Level: 2 Hearts or More
+    Conditions:
+      - Talked to Lucas on 10 or more unique days
+      - Not riding any animal
+      - Being followed by Lucas
+      
+### Date
+    Location: Beach
+    Time: 20:00 - 22:59
+    Friendship Level: 3 Hearts or More
+    Conditions:
+      - Seen Friendship Event;
+      - Being followed by Lucas
+
 ## Likes and Dislikes
 
 Any items not on those lists will be liked or disliked according to the item's default.
