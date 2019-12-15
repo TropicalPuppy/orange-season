@@ -1,30 +1,31 @@
+# Marriage Candidates
+- [Annie](villagers/Annie.md)
+- [Benjamin](villagers/Benjamin.md)
+- [Brittany](villagers/Brittany.md)
+- [Cindy](villagers/Cindy.md)
+- [Devin](villagers/Devin.md)
+- [Lucas](villagers/Lucas.md)
+- [Nathalia](villagers/Nathalia.md)
+- [Raphael](villagers/Raphael.md)
+- [Stella](villagers/Stella.md)
+- [Viktor](villagers/Viktor.md)
+
 # Villagers
 
 - [Amanda](villagers/Amanda.md)
-- [Annie](villagers/Annie.md)
-- [Benjamin](villagers/Benjamin.md)
 - [Billy](villagers/Billy.md)
 - [Bonnie](villagers/Bonnie.md)
-- [Brittany](villagers/Brittany.md)
 - [Chloe](villagers/Chloe.md)
-- [Cindy](villagers/Cindy.md)
-- [Devin](villagers/Devin.md)
 - [Gabriel](villagers/Gabriel.md)
 - [Ilda](villagers/Ilda.md)
 - [Julia](villagers/Julia.md)
 - [Karl](villagers/Karl.md)
-- [Lucas](villagers/Lucas.md)
 - [Martin](villagers/Martin.md)
 - [Mia](villagers/Mia.md)
-- [Nathalia](villagers/Nathalia.md)
 - [Phi](villagers/Phi.md)
-- [Raphael](villagers/Raphael.md)
 - [Richard](villagers/Richard.md)
 - [Rory](villagers/Rory.md)
 - [Serge](villagers/Serge.md)
-- [Stella](villagers/Stella.md)
-- [Viktor](villagers/Viktor.md)
-
 
 # Items
 

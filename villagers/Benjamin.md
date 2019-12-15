@@ -9,6 +9,26 @@ Benjamin is a 27 year old farmer who lives in Orange Town. He's the one who give
 - [Julia](Julia.md) - Older Sister
 - Benjamin's parents do not live in Orange Town.
 
+## Heart Events
+
+### Friendship Event
+    Location: Mountain
+    Time: 10:00 - 13:59
+    Friendship Level: 2 Hearts or More
+    Conditions:
+      - Talked to Benjamin on 10 or more unique days
+      - Not riding any animal
+      - Being followed by Benjamin
+    
+### Date
+    Location: Forest
+    Time: 13:00 - 17:59
+    Friendship Level: 3 Hearts or More;
+    Conditions:
+      - Seen Friendship Event;
+      - Not riding any animal
+      - Being followed by Benjamin
+
 ## Likes and Dislikes:
 
 Any items not on those lists will be liked or disliked according to the item's default.

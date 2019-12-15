@@ -2,6 +2,44 @@
 
 ## Family
 
+No Info
+
+## Heart Events
+
+### Zero Hearts
+    Location: Orange Town
+    Time: 10:00 - 12:30
+    Conditions:
+     - Sunny Weather
+     - Not riding any animal
+     - Not being followed
+     - Talked to Annie on 10 or more unique days
+
+### One Heart
+    Location: Restaurant
+    Time: 12:51 - 15:17
+    Friendship Level: 1 Heart or more
+    Conditions:
+     - Seen the previous cutscene
+
+### Friendship Event
+    Location: Mountain
+    Time: 10:00 - 13:59
+    Friendship Level: 2 Hearts or More
+    Conditions:
+     - Not riding any animal
+     - Seen both Heart Events
+     - Being followed by Annie
+
+### Date
+    Location: Forest
+    Time: 13:00 - 17:59
+    Friendship Level: 3 Hearts or More
+    Conditions:
+     - Not riding any animal
+     - Seen Friendship Event
+     - Being followed by Annie
+
 ## Likes and Dislikes
 
 Any items not on those lists will be liked or disliked according to the item's default.
