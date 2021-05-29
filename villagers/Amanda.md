@@ -16,11 +16,13 @@ No Info.
 
 ### Liked Items
 
-No Info.
+- [Hay](../items/hay.md)
 
 ### Disliked Items
 
-No Info.
+- [Ruby Crystal](../items/ruby-crystal.md)
+- [Ruby Gem](../items/ruby.md)
+- [Ruby Ring](../items/ruby-ring.md)
 
 ### Hated Items
 

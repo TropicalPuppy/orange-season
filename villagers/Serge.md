@@ -12,11 +12,11 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Peanut Butter](../items/peanut-butter.md)
 
 ### Liked Items
 
-No Info.
+- [Peanut](../items/peanut.md)
 
 ### Disliked Items
 

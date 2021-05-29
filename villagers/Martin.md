@@ -16,11 +16,14 @@ No Info.
 
 ### Liked Items
 
-No Info.
+- [Lettuce](../items/lettuce.md)
+- [Ball](../items/ball.md)
 
 ### Disliked Items
 
-No Info.
+- [Emerald Crystal](../items/emerald-crystal.md)
+- [Emerald Gem](../items/emerald.md)
+- [Emerald Ring](../items/emerald-ring.md)
 
 ### Hated Items
 

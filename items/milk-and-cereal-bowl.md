@@ -5,9 +5,9 @@
 - **Buy Price**: 190$
 - **Sell Price**: 80$
 - **Sold by Wandering Salesman**: YES
+- **Default Gift Reaction**: Normal
 - **Heals**:
   - 8 points of Stamina
-  - 2 points of Fatigue
 - **Recipe**:
   - **Utensil**: 
   - **Ingredients**:

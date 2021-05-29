@@ -1,4 +1,4 @@
-# "S.U.G.O.E." Orange
+# \S.U.G.O.E.\ Orange
 
 Supposedly, SUPER ULTRA GREATEST ORANGE EXPERIENCE. But it's just a regular orange.
 
@@ -6,9 +6,8 @@ Supposedly, SUPER ULTRA GREATEST ORANGE EXPERIENCE. But it's just a regular oran
 
 - **Buy Price**: 2,000$
 - **Sold by Wandering Salesman**: YES
-- **Default Gift Reaction**: Normal
 - **Heals**:
-  - 7 points of Stamina
+  - 6 points of Stamina
 - **Seasons**:
   - Spring
   - Summer

@@ -54,6 +54,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Duck Egg](../items/duck-egg.md)
 - [Quail Egg](../items/quail-egg.md)
 - [Egg](../items/egg.md)
+- [Fertilized Egg](../items/fertilized-egg.md)
 - [Milk](../items/milk.md)
 - [Goat Milk](../items/goat-milk.md)
 - [Sugar](../items/sugar.md)
@@ -66,6 +67,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Cocoa Beans](../items/cocoa-beans.md)
 - [Chocolate](../items/chocolate.md)
 - [Hamburger](../items/hamburguer.md)
+- [Potato](../items/potato.md)
 
 ### Disliked Items
 

@@ -13,11 +13,15 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Cereal Box](../items/cereal-box.md)
+- [Old Tire](../items/old-tire.md)
+- [Red Can](../items/red-can.md)
+- [Blue Can](../items/blue-can.md)
+- [Green Can](../items/green-can.md)
 
 ### Liked Items
 
-No Info.
+- [Honey](../items/honey.md)
 
 ### Disliked Items
 

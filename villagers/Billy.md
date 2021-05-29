@@ -12,11 +12,16 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Goat Cheese](../items/goat-cheese.md)
+- [Mountain Goat Cheese](../items/mountain-goat-cheese.md)
 
 ### Liked Items
 
-No Info.
+- [Mountain Goat Milk](../items/mountain-goat-milk.md)
+- [Goat Milk](../items/goat-milk.md)
+- [Tomato](../items/tomato.md)
+- [Butter](../items/butter.md)
+- [Kiwi](../items/kiwi.md)
 
 ### Disliked Items
 

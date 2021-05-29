@@ -8,7 +8,6 @@
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 15 points of Stamina
-  - 1 points of Fatigue
 - **Recipes**:
   - Recipe 1:
     - **Utensil**: Frying Pan

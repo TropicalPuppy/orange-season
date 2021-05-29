@@ -38,6 +38,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Liked Items
 
+- [Bait](../items/bait.md)
 - [Tiger Barb](../items/tiger-barb.md)
 - [Tuna](../items/tuna.md)
 - [Walleye](../items/walleye.md)
@@ -64,6 +65,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Vanilla Ice Cream](../items/vanilla-icecream.md)
 - [White Chocolate Ice Cream](../items/white-chocolate-icecream.md)
 - [Latte](../items/latte.md)
+- [Tilapia](../items/tilapia.md)
 
 ### Disliked Items
 
@@ -118,3 +120,4 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Green Salad](../items/green-salad.md)
 - [Mayo](../items/mayo.md)
 - [French Fries w/ Ketchup](../items/french-fries-with-ketchup.md)
+- [Trahira](../items/traira.md)

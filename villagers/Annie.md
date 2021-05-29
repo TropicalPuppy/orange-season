@@ -80,6 +80,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Potato](../items/potato.md)
 - [Milk](../items/milk.md)
 - [Cherry](../items/cherry.md)
+- [Tangerine](../items/tangerine.md)
 
 ### Disliked Items
 
@@ -94,6 +95,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Onion](../items/onion.md)
 - [Pumpkin](../items/pumpkin.md)
 - [Brick](../items/brick.md)
+- [Roof Tile](../items/roof-tile.md)
 - [Branch](../items/branch.md)
 - [Wooden Plank](../items/wooden-planks.md)
 - [Wooden Stick](../items/wooden-stick.md)

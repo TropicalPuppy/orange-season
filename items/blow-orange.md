@@ -1,4 +1,4 @@
-# "B.L.O.W." Orange
+# \B.L.O.W.\ Orange
 
 Supposedly, BLESSED LOVELY ORANGE WISHES. It looks like this fruit will increase my maximum stamina.
 

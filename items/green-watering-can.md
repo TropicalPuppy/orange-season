@@ -6,4 +6,4 @@
 - **Sold by Wandering Salesman**: NO
 - **Materials**:
   - Effective Watering Can
-  - Emerald Gem
+  - Emerald Gem x 5

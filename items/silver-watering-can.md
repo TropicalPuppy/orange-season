@@ -6,4 +6,4 @@
 - **Sold by Wandering Salesman**: NO
 - **Materials**:
   - Cheap Watering Can
-  - Silver Ore x 5
+  - Silver Ingot x 2

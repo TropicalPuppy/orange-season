@@ -6,4 +6,4 @@
 - **Sold by Wandering Salesman**: NO
 - **Materials**:
   - Regular Watering Can
-  - Ruby Gem
+  - Ruby Gem x 5

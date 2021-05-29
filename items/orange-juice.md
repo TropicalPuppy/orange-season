@@ -2,12 +2,12 @@
 
 ## Basic Information
 
-- **Buy Price**: 130$
+- **Buy Price**: 220$
 - **Sell Price**: 112$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Like
 - **Heals**:
-  - 14 points of Stamina
+  - 8 points of Stamina
 - **Recipes**:
   - Recipe 1:
     - **Utensil**: Blender

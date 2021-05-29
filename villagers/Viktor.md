@@ -41,8 +41,8 @@ No Info.
 
 ### Disliked Items
 
-- [Sapphire](../items/sapphire.md)
 - [Sapphire Crystal](../items/sapphire-crystal.md)
+- [Sapphire Gem](../items/sapphire.md)
 - [Sapphire Ring](../items/sapphire-ring.md)
 
 ### Hated Items

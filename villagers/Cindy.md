@@ -54,6 +54,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 ### Liked Items
 
 - [Peach](../items/peach.md)
+- [Broccoli](../items/broccoli.md)
 
 ### Disliked Items
 

@@ -102,6 +102,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Copper Ingot](../items/copper-ingot.md)
 - [Silver Ingot](../items/silver-ingot.md)
 - [Brick](../items/brick.md)
+- [Roof Tile](../items/roof-tile.md)
 - [Wooden Plank](../items/wooden-planks.md)
 - [Spinach](../items/spinach.md)
 - [Hot Milk](../items/hot-milk.md)

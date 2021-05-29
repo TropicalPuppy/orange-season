@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-- **Buy Price**: 1$
-- **Sell Price**: 1$
-- **Sold by Wandering Salesman**: NO
+- **Buy Price**: 2,040$
+- **Sell Price**: 1,070$
+- **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal

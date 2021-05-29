@@ -10,11 +10,11 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Bass](../items/bass.md)
 
 ### Liked Items
 
-No Info.
+- [Tea Bag](../items/tea-bag.md)
 
 ### Disliked Items
 

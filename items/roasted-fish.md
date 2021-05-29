@@ -8,7 +8,6 @@
 - **Default Gift Reaction**: Normal
 - **Heals**:
   - 5 points of Stamina
-  - 4 points of Fatigue
 - **Recipes**:
   - Recipe 1:
     - **Utensil**: Oven

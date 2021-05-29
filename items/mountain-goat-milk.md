@@ -10,4 +10,3 @@ Fresh mountain goat milk. Smells terrible.
 - **Default Gift Reaction**: Hate
 - **Heals**:
   - 5 points of Stamina
-  - 2 points of Fatigue

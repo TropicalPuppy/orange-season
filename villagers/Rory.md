@@ -13,11 +13,11 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Tuna](../items/tuna.md)
 
 ### Liked Items
 
-No Info.
+- [Eggplant](../items/eggplant.md)
 
 ### Disliked Items
 

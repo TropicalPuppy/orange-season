@@ -26,7 +26,7 @@
 - [Branch](items/branch.md)
 - [Wooden Plank](items/wooden-planks.md)
 - [Wooden Stick](items/wooden-stick.md)
-- [Wooden Plank](items/single-wooden-plank.md)
+- [Dark Wooden Plank](items/dark-wooden-plank.md)
 - [Diamond Brick](items/diamond-brick.md)
 - [Gold Nuggets](items/gold-nuggets.md)
 - [Pearl](items/pearl.md)
@@ -35,3 +35,4 @@
 - [Diamond Ore](items/diamond-ore.md)
 - [Dark Silver Ore](items/dark-silver-ore.md)
 - [Dark Silver Bar](items/dark-silver-ingot.md)
+- [Roof Tile](items/roof-tile.md)

@@ -33,7 +33,10 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Rainbow Juice](../items/rainbow-juice.md)
+- [Pumpkin](../items/pumpkin.md)
+- [Fried Egg](../items/fried-egg.md)
+- [Boiled Egg](../items/boiled-egg.md)
 
 ### Liked Items
 

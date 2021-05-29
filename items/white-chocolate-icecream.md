@@ -2,13 +2,12 @@
 
 ## Basic Information
 
-- **Buy Price**: 449$
+- **Buy Price**: 450$
 - **Sell Price**: 332$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
-  - 30 points of Stamina
-  - 7 points of Fatigue
+  - 15 points of Stamina
 - **Recipe**:
   - **Utensil**: Mixer
   - **Ingredients**:

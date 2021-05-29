@@ -29,6 +29,7 @@ Any items not on those lists will be liked or disliked according to the item's d
 - [Walleye](../items/walleye.md)
 - [Pickerel](../items/pickerel.md)
 - [Tuna](../items/tuna.md)
+- [Onion](../items/onion.md)
 
 ### Disliked Items
 

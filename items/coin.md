@@ -2,9 +2,9 @@
 
 ## Basic Information
 
-- **Buy Price**: 20$
+- **Buy Price**: 10$
 - **Sell Price**: 10$
-- **Sold by Wandering Salesman**: YES
+- **Sold by Wandering Salesman**: NO
 
 ---
 Can be found randomly during winter.

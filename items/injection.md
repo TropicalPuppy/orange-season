@@ -7,5 +7,5 @@
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Hate
 - **Heals**:
-  - 100 points of Stamina
+  - 200 points of Stamina
   - 10 points of Fatigue

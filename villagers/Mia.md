@@ -13,11 +13,12 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Cauliflower](../items/cauliflower.md)
 
 ### Liked Items
 
-No Info.
+- [Cocoa](../items/cocoa.md)
+- [Cocoa Beans](../items/cocoa-beans.md)
 
 ### Disliked Items
 

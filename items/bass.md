@@ -4,9 +4,9 @@ Don't drop it.
 
 ## Basic Information
 
-- **Buy Price**: 49$
-- **Sell Price**: 26$
+- **Buy Price**: 176$
+- **Sell Price**: 61$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
-  - 6 points of Stamina
+  - 7 points of Stamina

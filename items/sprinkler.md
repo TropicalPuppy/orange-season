@@ -9,4 +9,4 @@ Automatically waters up to 8 crops around itself.
 - **Sold by Wandering Salesman**: NO
 - **Materials**:
   - Blue Crystal
-  - Iron Ore x 4
+  - Iron Ingot

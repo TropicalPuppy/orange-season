@@ -14,7 +14,7 @@ No Info.
 
 ### Liked Items
 
-No Info.
+- [Corn](../items/corn.md)
 
 ### Disliked Items
 

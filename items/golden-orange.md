@@ -7,6 +7,6 @@ Eat it to increase your maximum stamina.
 - **Buy Price**: 30,000$
 - **Sold by Wandering Salesman**: NO
 - **Heals**:
-  - 100 points of Stamina
-  - 100 points of Fatigue
+  - 50 points of Stamina
+  - 50 points of Fatigue
 - Increases max stamina by 10 points.

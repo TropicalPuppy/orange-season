@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-- **Buy Price**: 50$
-- **Sell Price**: 6$
+- **Buy Price**: 25$
+- **Sell Price**: 4$
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Dislike

@@ -1,6 +1,6 @@
 # Barn
 
-Place it on your farm to grow animals in it.
+Place it on your farm to raise animals in it.
 
 ## Basic Information
 

@@ -7,7 +7,8 @@
 - **Sold by Wandering Salesman**: YES
 - **Default Gift Reaction**: Normal
 - **Heals**:
-  - 50 points of Stamina
+  - 30 points of Stamina
+  - 10 points of Fatigue
 - **Recipe**:
   - **Utensil**: Blender
   - **Ingredients**:

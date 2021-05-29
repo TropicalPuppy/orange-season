@@ -8,6 +8,7 @@
 - **Default Gift Reaction**: Like
 - **Heals**:
   - 75 points of Stamina
+  - 10 points of Fatigue
 - **Recipe**:
   - **Utensil**: Blender
   - **Ingredients**:

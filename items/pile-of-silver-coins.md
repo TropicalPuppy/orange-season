@@ -2,6 +2,6 @@
 
 ## Basic Information
 
-- **Buy Price**: 50$
-- **Sell Price**: 50$
+- **Buy Price**: 500$
+- **Sell Price**: 500$
 - **Sold by Wandering Salesman**: NO

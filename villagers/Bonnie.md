@@ -13,11 +13,14 @@ Any items not on those lists will be liked or disliked according to the item's d
 
 ### Loved Items
 
-No Info.
+- [Cake](../items/cake.md)
+- [Chillipepper](../items/chillipepper.md)
+- [Red Mushroom](../items/red-mushroom.md)
 
 ### Liked Items
 
-No Info.
+- [Green Mushroom](../items/green-mushroom.md)
+- [Blue Mushroom](../items/blue-mushroom.md)
 
 ### Disliked Items
 
@@ -25,4 +28,4 @@ No Info.
 
 ### Hated Items
 
-No Info.
+- [Banana](../items/banana.md)
