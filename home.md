@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-05-30T08:03:54.862Z
+date: 2021-05-30T08:05:05.909Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T05:15:45.489Z
@@ -24,14 +24,15 @@ Includes basic information about items, extract automatically from the game sour
 # Villagers
 
 | Bachelorettes | Bachelors |
-|--|
+|--|--|
 | [Annie](/villagers/Annie) | [Benjamin](/villagers/Benjamin) |
 | [Brittany](/villagers/Brittany) | [Devin](/villagers/Devin) |
 | [Cindy](/villagers/Cindy) | [Lucas](/villagers/Lucas) |
 | [Nathalia](/villagers/Nathalia) | [Raphael](/villagers/Raphael) |
 | [Stella](/villagers/Stella) | [Viktor](/villagers/Viktor) |
 
-[Full Villager List](/villagers)
+* [Full Villager List](/villagers)
+
 
 # Shops
 
