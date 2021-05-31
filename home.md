@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2021-05-30T08:05:05.909Z
+date: 2021-05-31T02:19:09.406Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T05:15:45.489Z
@@ -12,7 +12,7 @@ dateCreated: 2021-05-29T05:15:45.489Z
 
 
 # Item Categories
-Includes basic information about items, extract automatically from the game source code.
+Includes basic information about items, extracted automatically from the game source code.
 
 - [Crops](/items-crops)
 - [Fish](/items-fish)
