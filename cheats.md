@@ -2,7 +2,7 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T12:00:27.409Z
+date: 2021-06-17T12:03:36.618Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
@@ -42,8 +42,8 @@ Once you open the cheat screen for the first time, you can open it again quicker
 
 ### Items
 * `pick orange`: Adds an orange to your inventory. You can replace "orange" by any item ID.
+* `recieve orange`: Adds an orange to your inventory. Same as the pick command, but if your backpack is full the item is moved to your mailbox. 
 * `gain gold X`: Adds gold to your wallet. You can replace "X" by any number.
-* `open storage`: Opens the storage screen.
 
 ### Social
 * `increase friendship Benjamin x 50`: Increases friendship with Benjamin by 50 points. You can use any villager name.
@@ -146,5 +146,9 @@ Once you open the cheat screen for the first time, you can open it again quicker
 * `unlockedChairs`:  Determines if the player unlocked chairs.
 * `unlockedBookCases`:  Determines if the player unlocked bookcases.
 
-
+### ***List of Variables:***
+* `dogName`:  Determines the name of your pet dog.
+* `farmName`:  Determines the name of your farm.
+* `mineLevel`:  Determines how deep you are in the mine.
+* `mineLevel`:  Determines the deepest you ever went in the mine.
 
