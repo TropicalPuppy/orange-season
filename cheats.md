@@ -2,7 +2,7 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T11:46:07.851Z
+date: 2021-06-17T12:00:27.409Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
@@ -81,10 +81,12 @@ Once you open the cheat screen for the first time, you can open it again quicker
 
 
 
-### Switches
+## Switches and Variables
 * `switch [switch name] [ON/OFF]`: Switches the specified switch ON or OFF. **Warning**: This cheat can easily break the game if you change something you shouldn't.
 
-***List of Switches:***
+* `variable [variable name] [value]`: Changes the value of the specified variable. **Warning**: This cheat can easily break the game if you change something you shouldn't.
+
+### ***List of Switches:***
 * `gotFirstBag`:  Determines if the player bought the first bag expansion.
 * `gotSecondBag`:  Determines if the player bought the second bag expansion.
 * `hasRegularWateringCan`:  Determines if the player has the initial watering can. 
