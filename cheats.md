@@ -2,11 +2,15 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T01:28:48.169Z
+date: 2021-06-17T11:46:07.851Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
 ---
+
+> **This section contains minor spoilers!**
+{.is-warning}
+
 
 To open the cheat code input screen, **hold shift and press ↑ ↑ ↓ ↓ ← → ← →**
 Once you open the cheat screen for the first time, you can open it again quicker by **holding shift and pressing ↑ ↓ Enter**
@@ -89,6 +93,8 @@ Once you open the cheat screen for the first time, you can open it again quicker
 * `hasIronSickle`:  Determines if the player found the initial sickle.
 * `hasIronAxe`:  Determines if the player found and fixed the initial axe. 
 * `hasFishingRod`:  Determines if the player received the initial fishing rod. 
+* `hasGreenFishingRod`:  Determines if the player received the upgraded fishing rod.
+* `hasGreenFishingRod`:  Determines if the player received the third fishing rod.
 * `hasClippers`:  Determines if the player bought the clippers/shears. 
 * `hasMilker`:  Determines if the player bought the milker. 
 * `hasSilverWateringCan`:  Determines if the player received the silver watering can from viktor (will only take effect once you get the required experience). 
@@ -96,4 +102,47 @@ Once you open the cheat screen for the first time, you can open it again quicker
 * `hasCopperHammer`:  Determines if the player received the upgraded hammer (will only take effect once you get the required experience). 
 * `hasCopperSickle`:  Determines if the player received the upgraded sickle (will only take effect once you get the required experience). 
 * `hasCopperAxe`:  Determines if the player received the upgraded axe (will only take effect once you get the required experience). 
-* `hasRedWateringCan`:  Determines if the player received the red watering can from viktor (will only take effect once you get the required experience). 
+* `hasRedWateringCan`:  Determines if the player received the red watering can (will only take effect once you get the required experience). 
+* `hasSilverHoe`:  Determines if the player received the silver hoe (will only take effect once you get the required experience). 
+* `hasSilverHammer`:  Determines if the player received the silver hammer (will only take effect once you get the required experience). 
+* `hasSilverSickle`:  Determines if the player received the silver sickle (will only take effect once you get the required experience). 
+* `hasSilverAxe`:  Determines if the player received the silver axe (will only take effect once you get the required experience). 
+* `hasGreenWateringCan`:  Determines if the player received the green watering can (will only take effect once you get the required experience). 
+* `hasGoldenHoe`:  Determines if the player received the golden hoe (will only take effect once you get the required experience). 
+* `hasGoldenHammer`:  Determines if the player received the golden hammer (will only take effect once you get the required experience). 
+* `hasGoldenSickle`:  Determines if the player received the golden sickle (will only take effect once you get the required experience). 
+* `hasGoldenAxe`:  Determines if the player received the golden axe (will only take effect once you get the required experience).
+* `forestSpellLifted`:  Determines if the player lifted the spell that protects the forest. With this activated, you won't go back to the start after trying to explore.
+* `hasRibbon`:  Determines if the player received the fast travel ribbon from Annie.
+* `hasBrokenAxe`:  Determines if the player found the broken axe on the forest. 
+* `unlockedMonkeys`:  Determines if the player has unlocked the monkeys.
+* `unlockedBunnies`:  Determines if the player has unlocked the bunnies.
+* `expandedHouse`:  Determines if the player bought the first house upgrade.
+* `builtSecondFloor`:  Determines if the player bought made the second house upgrade.
+* `unlockedSprinklers`:  Determines if the player has unlocked the sprinklers.
+* `unlockedSuperSprinklers`:  Determines if the player has unlocked the second level sprinklers.
+* `canBuyStrawberrySeeds`:  Determines if the player has unlocked the strawberry seeds for purchase.
+* `canBuyWatermelonSeeds`:  Determines if the player has unlocked the watermelon seeds for purchase.
+* `canBuyPumpkinSeeds`:  Determines if the player has unlocked the pumpkin seeds for purchase.
+* `canBuyChillipepperSeeds`:  Determines if the player has unlocked the chilli pepper seeds for purchase.
+* `canBuyCassavaSeeds`:  Determines if the player has unlocked the cassava seeds for purchase.
+* `canBuyGrapeSeeds`:  Determines if the player has unlocked the grape seeds for purchase.
+* `canBuyBeetSeeds`:  Determines if the player has unlocked the beet seeds for purchase.
+* `canBuyBellpepperSeeds`:  Determines if the player has unlocked the bellpepper seeds for purchase.
+* `canBuyBroccoliSeeds`:  Determines if the player has unlocked the broccoli seeds for purchase.
+* `canBuyPeanutSeeds`:  Determines if the player has unlocked the peanut seeds for purchase.
+* `canBuyRadishSeeds`:  Determines if the player has unlocked the radish seeds for purchase.
+* `canBuySpinachSeeds`:  Determines if the player has unlocked the spinach seeds for purchase.
+* `hasKitchenKnife`:  Determines if the player has the kitchen knife.
+* `hasKitchenPot`:  Determines if the player has the kitchen knife.
+* `hasKitchenOven`:  Determines if the player has the kitchen oven.
+* `hasKitchenPan`:  Determines if the player has the kitchen pan.
+* `hasKitchenBlender`:  Determines if the player has the kitchen blender.
+* `hasKitchenMixer`:  Determines if the player has the kitchen mixer.
+* `gotAnyCrystalToday`:  Determines if the player found any crystals today.
+* `unlockedTables`:  Determines if the player unlocked tables.
+* `unlockedChairs`:  Determines if the player unlocked chairs.
+* `unlockedBookCases`:  Determines if the player unlocked bookcases.
+
+
+
