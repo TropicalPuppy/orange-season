@@ -2,7 +2,7 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T01:17:53.403Z
+date: 2021-06-17T01:21:13.406Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
@@ -34,6 +34,7 @@ Once you open the cheat screen for the first time, you can open it again quicker
 ### Items
 * `pick orange`: Adds an orange to your inventory. You can replace "orange" by any item ID.
 * `gain gold X`: Adds gold to your wallet. You can replace "X" by any number.
+* `open storage`: Opens the storage screen.
 
 ### Social
 * `increase friendship Benjamin x 50`: Increases friendship with Benjamin by 50 points. You can use any villager name.
