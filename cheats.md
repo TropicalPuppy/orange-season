@@ -2,7 +2,7 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T01:21:13.406Z
+date: 2021-06-17T01:28:48.169Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
@@ -14,22 +14,27 @@ Once you open the cheat screen for the first time, you can open it again quicker
 # List of Cheat Codes:
 
 ### General
-* `cheat crops`: make every object in the game age by one day (crops, mine rocks...)
-* `cheat grow`: make every crop grow to it's fruit stage and then applies `cheat crops` automatically.
+* `cheat crops`: Make every object in the game age by one day (crops, mine rocks...)
+* `cheat grow`: Make every crop grow to it's fruit stage and then applies `cheat crops` automatically.
+
+### Movement
+* `farm door player`: Moves the player to their house. 
+* `mine up `: Teleports the player to the mine entrance. 
 
 ### Animals
-* `cheat animals`: make every animal in the game age by one day. They'll consume food and generate eggs/milk as usual.
+* `cheat animals`: Make every animal in the game age by one day. They'll consume food and generate eggs/milk as usual.
 
 ### Time
-* `cheat change time`: opens a list of certain day times you can switch to
-* `add hours X`: adds the specified amount of hours to the current time. You can replace "X" by any number.
-* `cheat change hour 0`: change the current hour to 0. Use any number between 0 and 23.
-* `cheat skip day`: moves the clock to the next 6AM.
-* `cheat skip month`: sets the calendar at the first day of the next month
+* `cheat change time`: Opens a list of certain day times you can switch to
+* `add hours X`: Adds the specified amount of hours to the current time. You can replace "X" by any number.
+* `cheat change hour 0`: Change the current hour to 0. Use any number between 0 and 23.
+* `cheat skip day`: Moves the clock to the next 6AM.
+* `cheat skip month`: Sets the calendar at the first day of the next month
+* `home sleep`: Sleep until 6AM. 
 
 ### Weather
-* `cheat change weather`: opens a list where you can choose the current weather
-* `cheat change weather tomorrow`: opens a list where you can choose the weather for the next day
+* `cheat change weather`: Opens a list where you can choose the current weather
+* `cheat change weather tomorrow`: Opens a list where you can choose the weather for the next day
 
 ### Items
 * `pick orange`: Adds an orange to your inventory. You can replace "orange" by any item ID.
