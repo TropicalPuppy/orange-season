@@ -2,7 +2,7 @@
 title: Cheats
 description: 
 published: true
-date: 2021-06-17T12:03:36.618Z
+date: 2021-06-17T12:04:46.226Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:04:08.808Z
@@ -150,5 +150,5 @@ Once you open the cheat screen for the first time, you can open it again quicker
 * `dogName`:  Determines the name of your pet dog.
 * `farmName`:  Determines the name of your farm.
 * `mineLevel`:  Determines how deep you are in the mine.
-* `mineLevel`:  Determines the deepest you ever went in the mine.
+* `maxMineLevel`:  Determines the deepest you ever went in the mine.
 
