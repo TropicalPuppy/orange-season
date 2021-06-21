@@ -2,7 +2,7 @@
 title: House Upgrades
 description: 
 published: true
-date: 2021-06-17T12:05:57.806Z
+date: 2021-06-21T23:44:11.860Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:26:33.778Z
@@ -11,5 +11,17 @@ dateCreated: 2021-05-29T07:26:33.778Z
 > **This section contains minor spoilers!**
 {.is-warning}
 
+# House Upgrades
 
-How to upgrade the house and what comes with each upgrade.
+Raphael can upgrade your house up to 3 times. You can buy the upgrades by going to his shop after 12:30AM.
+
+## Kitchen Upgrade
+
+***Materials and Cost:***
+- x200 Branch
+- x50 Brick
+- x30 Roof Tile
+- $6000
+
+
+
