@@ -2,13 +2,15 @@
 title: House Upgrades
 description: 
 published: true
-date: 2021-06-22T00:59:02.566Z
+date: 2021-06-22T01:00:08.412Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:26:33.778Z
 ---
 
-> **This section contains minor spoilers!**
+>  **This section contains minor spoilers!**
+{.is-warning}
+
 
 # House Upgrades
 
