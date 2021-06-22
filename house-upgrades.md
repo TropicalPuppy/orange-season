@@ -2,7 +2,7 @@
 title: House Upgrades
 description: 
 published: true
-date: 2021-06-22T00:07:45.606Z
+date: 2021-06-22T00:13:50.630Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:26:33.778Z
@@ -13,7 +13,7 @@ dateCreated: 2021-05-29T07:26:33.778Z
 
 # House Upgrades
 
-Raphael can upgrade your house up to 3 times. You can buy the upgrades by going to his shop after 12:30AM.
+Raphael can upgrade your house up to 2 times. You can buy the upgrades by going to his shop after 12:30AM.
 
 ## Kitchen Upgrade
 
