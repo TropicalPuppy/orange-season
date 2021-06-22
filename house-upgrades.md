@@ -2,7 +2,7 @@
 title: House Upgrades
 description: 
 published: true
-date: 2021-06-21T23:44:11.860Z
+date: 2021-06-22T00:07:08.451Z
 tags: 
 editor: markdown
 dateCreated: 2021-05-29T07:26:33.778Z
@@ -21,7 +21,8 @@ Raphael can upgrade your house up to 3 times. You can buy the upgrades by going 
 - x200 Branch
 - x50 Brick
 - x30 Roof Tile
-- $6000
+- $6000 
 
-
+First House Upgrade:
+![house0.png](/img/house-upgrades/house0.png)
 
